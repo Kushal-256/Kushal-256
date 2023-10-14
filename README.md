@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Kushal-256/My_Banner/blob/main/skills%20%20Marks-1.png)](https://github.com/Kushal-256.io)
+![MasterHead](https://github.com/Kushal-256/My_Banner/blob/main/skills%20%20Marks-1.png)(https://github.com/Kushal-256.io)
 <h1 align="center">Hi 👋, I'm Kushal Manikanta</h1>
 <h3 align="center">I'm a Passionate About Cybersecurity-Focused Robotic Engineering</h3>
 </br>
