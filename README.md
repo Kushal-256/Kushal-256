@@ -1,32 +1,28 @@
 ![MasterHead](https://github.com/Kushal-256/My_Banner/blob/main/skill.png)
+
 <h1 align="center">Hi 👋, I'm Kushal Manikanta</h1>
-<h3 align="center">I'm a Passionate About Cybersecurity-Focused Robotic Engineering</h3>
+<h3 align="center">I'm Passionate About Cybersecurity-Focused Robotic Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-256&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-256" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kushal-256&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-256" />
+</p>
 
 - 🔭 I’m currently working on **Computer Networks**
-
 - 🌱 I’m currently learning **Robotics and Cybersecurity**
-
 - 🤝 I’m looking for help with **Cybersecurity Projects**
-
-- 👨‍💻 All of my projects are available at [https://kushalmanikanta.000webhostapp.com/](https://kushalmanikanta.000webhostapp.com/)
-
+- 👨‍💻 All of my projects are available at [https://kushalmanikanta.000webhostapp.com](https://kushalmanikanta.000webhostapp.com)
 - 📝 Technical Skills
-- Cybersecurity:
-     - Network Security.
-     - Penetration Testing.
-- Robotics:
-     - Robot Design and Prototyping.
-     - Raspberry pi and Arduino,ESP32,NODEMCU8266,Micro and PRO Micro projects.
-     - Drones.
-     - Worked with Robotic Bots.
-    
-- 💬 Ask me about **Pentesting,Hacking,Robotics and Cybersecurity Projects**
-
-- 📫 How to reach me **kushalmanikanta1234@gmail.com**
-
+  - Cybersecurity:
+    - Network Security
+    - Penetration Testing
+  - Robotics:
+    - Robot Design and Prototyping
+    - Raspberry Pi and Arduino, ESP32, NodeMCU8266, Micro and Pro Micro projects
+    - Drones
+    - Worked with Robotic Bots
+- 💬 Ask me about **Pentesting, Hacking, Robotics, and Cybersecurity Projects**
+- 📫 How to reach me: **kushalmanikanta1234@gmail.com**
 - 📄 Certifications [On Preparation]
 
 <h3 align="left">Connect with me:</h3>
