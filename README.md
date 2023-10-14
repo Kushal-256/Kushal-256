@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Kushal-256/My_Banner/blob/main/skill.png)]
+![MasterHead](https://github.com/Kushal-256/My_Banner/blob/main/skill.png)
 <h1 align="center">Hi 👋, I'm Kushal Manikanta</h1>
 <h3 align="center">I'm a Passionate About Cybersecurity-Focused Robotic Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
