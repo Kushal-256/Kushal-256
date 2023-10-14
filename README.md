@@ -14,13 +14,21 @@
 
 - 👨‍💻 All of my projects are available at [https://kushalmanikanta.000webhostapp.com/](https://kushalmanikanta.000webhostapp.com/)
 
-- 📝 Technical Skills [Cybersecurity: Network Security, Penetration Testing , Robotics: Robot Design and Prototyping ,Raspberry pi and Arduino,ESP32,NODEMCU8266,Micro and PRO Micro projects and Drones etc.](Cybersecurity: Network Security, Penetration Testing , Robotics: Robot Design and Prototyping ,Raspberry pi and Arduino,ESP32,NODEMCU8266,Micro and PRO Micro projects and Drones etc.)
-
-- 💬 Ask me about **Pentesting,Hacking,Robotic Projects**
+- 📝 Technical Skills
+- Cybersecurity:
+     - Network Security.
+     - Penetration Testing.
+- Robotics:
+     - Robot Design and Prototyping.
+     - Raspberry pi and Arduino,ESP32,NODEMCU8266,Micro and PRO Micro projects.
+     - Drones.
+     - Worked with Robotic Bots.
+    
+- 💬 Ask me about **Pentesting,Hacking,Robotics and Cybersecurity Projects**
 
 - 📫 How to reach me **kushalmanikanta1234@gmail.com**
 
-- 📄 Certifications [On Preparation](On Preparation)
+- 📄 Certifications [On Preparation]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
